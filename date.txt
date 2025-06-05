@@ -1,0 +1,13 @@
+ID_Camera: 101 | Nr_Persoane: 2 | Zile: 5
+ID_Camera: 102 | Nr_Persoane: 3 | Zile: 4
+ID_Camera: 103 | Nr_Persoane: 4 | Zile: 33
+ID_Camera: 104 | Nr_Persoane: 1 | Zile: 15
+ID_Camera: 105 | Nr_Persoane: 3 | Zile: 4
+ID_Camera: 106 | Nr_Persoane: 3 | Zile: 4
+ID_Camera: 107 | Nr_Persoane: 1337 | Zile: 22
+ID_Camera: 108 | Nr_Persoane: 33 | Zile: 44
+ID_Camera: 109 | Nr_Persoane: 33 | Zile: 44
+ID_Camera: 110 | Nr_Persoane: 33 | Zile: 44
+ID_Camera: 111 | Nr_Persoane: 333 | Zile: 1
+ID_Camera: 112 | Nr_Persoane: 5 | Zile: 3
+ID_Camera: 113 | Nr_Persoane: 5 | Zile: 3
